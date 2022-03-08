@@ -1,0 +1,13 @@
+{
+  "name": "contains_duplicates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contains_duplicates.js",
+  "scripts": {
+    "start": "node contains_duplicates_test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

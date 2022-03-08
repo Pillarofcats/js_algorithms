@@ -1,0 +1,12 @@
+{
+  "name": "depth_first_search",
+  "version": "1.0.0",
+  "main": "test_depth_first_search.js",
+  "scripts": {
+    "start": "node test_depth_first_search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

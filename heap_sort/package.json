@@ -1,0 +1,12 @@
+{
+  "name": "heap_sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_heap_sort.js",
+  "scripts": {
+    "start": "node test_heap_sort.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

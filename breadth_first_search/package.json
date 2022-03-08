@@ -1,0 +1,12 @@
+{
+  "name": "breadth_first_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_breadth_first_search.js",
+  "scripts": {
+    "start": "node test_breadth_first_search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rotate_array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotate_array.js",
+  "scripts": {
+    "start": "node rotate_array_test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

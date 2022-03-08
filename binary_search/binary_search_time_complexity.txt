@@ -1,0 +1,1 @@
+Logarithmic - O(log(n)) - Relatively Fast
